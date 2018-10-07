@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ConFusion
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# Coursera_Angular
+2nd part in the web and multiplatform mobile development course
+>>>>>>> 47257842206e8b7f00e2eae6fed360deda1423cc
